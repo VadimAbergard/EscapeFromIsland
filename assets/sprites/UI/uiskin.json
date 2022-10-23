@@ -1,4 +1,0 @@
-{
-  com.badlogic.gdx.graphics.g2d.BitmapFont : { default-font : { file: Razer.fnt} },
-  com.badlogic.gdx.screen.ui.TextButton$TextButtonStyle : { default-font : { file: Razer.fnt} }
-}
